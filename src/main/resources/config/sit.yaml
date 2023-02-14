@@ -1,0 +1,13 @@
+http:
+  listener:
+    host: "0.0.0.0"
+    port: "9082"
+    path: "/FastGoCall/{serviceType}"
+    
+db:
+  mySQL:
+    host: "sql12.freesqldatabase.com"
+    port: "3306"
+    username: "sql12597798"
+    password: "8TYlxFGL8S"
+    database: "sql12597798"   
